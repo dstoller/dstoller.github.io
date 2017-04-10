@@ -14,17 +14,19 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
   Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
   name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-FNAME\">First Name </label>\n\t<input type=\"text\" value=\"\" name=\"FNAME\"
-  class=\"\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last
-  Name </label>\n\t<input type=\"text\" value=\"\" name=\"LNAME\" class=\"\" id=\"mce-LNAME\">\n</div>\n<div
+  for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE3\">Street Address </label>\n\t<input
   type=\"text\" value=\"\" name=\"MMERGE3\" class=\"\" id=\"mce-MMERGE3\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE4\">Town  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"MMERGE4\" class=\"required\" id=\"mce-MMERGE4\">\n</div>\n<div
-  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE5\">Zip Code </label>\n\t<input
-  type=\"number\" name=\"MMERGE5\" class=\"\" value=\"\" id=\"mce-MMERGE5\">\n</div>\n<div
-  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE7\">Mobile Phone Number
-  </label>\n\t<input type=\"text\" name=\"MMERGE7\" class=\"\" value=\"\" id=\"mce-MMERGE7\">\n</div>\n\t<div
+  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE5\">Zip Code  <span
+  class=\"asterisk\">*</span>\n</label>\n\t<input type=\"number\" name=\"MMERGE5\"
+  class=\"required\" value=\"\" id=\"mce-MMERGE5\">\n</div>\n<div class=\"mc-field-group
+  size1of2\">\n\t<label for=\"mce-MMERGE7\">Mobile Phone Number </label>\n\t<input
+  type=\"text\" name=\"MMERGE7\" class=\"\" value=\"\" id=\"mce-MMERGE7\">\n</div>\n\t<div
   id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
   style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
   style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
