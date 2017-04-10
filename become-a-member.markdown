@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2017-02-17 03:58:00 Z
 position: 5
-mailchimp-form-embed: http://eepurl.com/cDb-Or
+mailchimp-form-embed: http://twitter.us15.list-manage1.com/subscribe?u=6e44580c77d04c66ad74296e8&id=fe744d2a25
 layout: becomeAMember
 ---
 
