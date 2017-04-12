@@ -8,4 +8,4 @@ call-script-text: 'Instead of a call script, watch this video from Indivisible t
   prep for your call:  http://bit.ly/TrumpTaxVideo'
 ---
 
-Call our MoCs and remind them that Trump must share his tax returns.  
+Call our MoCs and make sure they support the **Presidential Tax Transparency Act**.
