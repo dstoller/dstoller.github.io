@@ -6,7 +6,7 @@ categories:
 is featured: false
 main-image: "/uploads/trumptaxreturns.jpg"
 call-script-text: 'Instead of a call script, watch this video from Indivisible to
-  prep for your call:  [http://bit.ly/TrumpTaxVideo](http://bit.ly/TrumpTaxVideo)'
+  prep for your call:  http://bit.ly/TrumpTaxVideo'
 ---
 
 Call our MoCs and make sure they support the **Presidential Tax Transparency Act**.
