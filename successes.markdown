@@ -5,3 +5,4 @@ position: 1
 layout: media-grid
 ---
 
+3/3/17: NWI Meets with Senator Gillibrand's State Director.  Shares priorities.  Establishes relationship.
