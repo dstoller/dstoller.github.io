@@ -5,4 +5,4 @@ position: 0
 main-image: "/uploads/supporting%20Environment_Schumer%20Office%20Peekskill%202.2.17.jpg"
 ---
 
-2.4.17: NWI attends rally to support the Environment at Senator Schumer's Peekskill, NY office 
+2.2.17: NWI attends rally to support the Environment at Senator Schumer's Peekskill, NY office 
