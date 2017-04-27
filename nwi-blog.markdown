@@ -1,6 +1,7 @@
 ---
 title: NWI Blog
 date: 2017-04-27 20:31:00 Z
+position: 4
 Field name:
 - 
 ---
