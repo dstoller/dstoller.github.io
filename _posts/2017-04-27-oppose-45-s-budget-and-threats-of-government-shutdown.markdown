@@ -8,8 +8,6 @@ call-script-text: Hi. I’m from ZIP, calling about Trump’s budget. I want my 
   in new military spending. What is NAME planning to do about his budget ideas?
 ---
 
-[Budgets & Threats](http://www.nbcnews.com/politics/white-house/white-house-optimism-government-shutdown-complicated-trump-demands-n749461?utm_source=NW+Indivisible+Members&utm_campaign=7203dfa2c4-EMAIL_ACTIONS_2017_03_14&utm_medium=email&utm_term=0_fe744d2a25-7203dfa2c4-8191803)
-
 Our combined voices can and do make a difference. He will yield to us.
 
 Action: Call the White House comment line: 202-456-1111.
