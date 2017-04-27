@@ -5,6 +5,8 @@ categories:
 - action
 ---
 
+Let's educate those science deniers...
+
 * **Visit:** [The scientific method wikipedia page](https://simple.wikipedia.org/wiki/Scientific_method?utm_source=NW+Indivisible+Members&utm_campaign=7203dfa2c4-EMAIL_ACTIONS_2017_03_14&utm_medium=email&utm_term=0_fe744d2a25-7203dfa2c4-8191803)
 * **Write or draw:** The 7-step process on a postcard and send it to [climate science deniers](https://www.theguardian.com/environment/2016/dec/15/trump-cabinet-climate-change-deniers?utm_source=NW+Indivisible+Members&utm_campaign=7203dfa2c4-EMAIL_ACTIONS_2017_03_14&utm_medium=email&utm_term=0_fe744d2a25-7203dfa2c4-8191803). Involve your kids if you have some. Add: “The climate crisis is real.”
 * **Send to:**
