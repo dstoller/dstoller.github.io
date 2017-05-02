@@ -1,9 +1,10 @@
 ---
 title: Climate March (4/29) - Stay Local - White Plains
 date: 2017-04-27 20:19:00 Z
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/beating-heart.gif"
 event-start-date: 2017-04-29 11:00:00 Z
 event-end-date: 2017-04-29 12:00:00 Z
