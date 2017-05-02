@@ -1,5 +1,5 @@
 ---
-title: TrumpCare- Join Indivisible at 9 PM ET on May 2
+title: TrumpCare- Join Indivisible for live video town hall at 9 PM ET on May 2
 date: 2017-05-02 15:36:00 Z
 categories:
 - event
