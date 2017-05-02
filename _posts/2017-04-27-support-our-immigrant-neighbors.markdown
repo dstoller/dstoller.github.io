@@ -3,6 +3,7 @@ title: Support our Immigrant Neighbors
 date: 2017-04-27 20:37:00 Z
 categories:
 - event
+is featured: true
 main-image: "/uploads/Mt%20Kisco%20Rally_Support%20Immigrants%205.7.17.jpg"
 event-start-date: 2017-05-07 14:30:00 Z
 Location: Parking lot behind Modell's and the Mount Kisco Movie Theater
