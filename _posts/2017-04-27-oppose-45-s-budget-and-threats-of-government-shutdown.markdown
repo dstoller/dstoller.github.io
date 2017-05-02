@@ -1,6 +1,7 @@
 ---
 title: Oppose 45’s budget and threats of government shutdown.
 date: 2017-04-27 20:55:00 Z
+published: false
 categories:
 - action
 call-script-text: Hi. I’m from ZIP, calling about Trump’s budget. I want my tax dollars
