@@ -6,6 +6,8 @@ categories:
 main-image: "/uploads/Russia_Ties_Trump.png"
 ---
 
+We must not let this Russia thing lose momentum. This is a bi-partisan issue that deserves a proper investigation. 
+
 *Newly-confirmed Deputy AG Rod Rosenstein [can approve](http://twitter.us15.list-manage2.com/track/click?u=6e44580c77d04c66ad74296e8&id=9e76a0ed45&e=ad5c7fe4c2) a special prosecutor or commission, but has previously hedged on this action. Speak up.*
 
 *Call: Dept. of Justice comment line [202-353-1555](tel:(202)%20353-1555)\
