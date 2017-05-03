@@ -6,6 +6,8 @@ categories:
 main-image: "/uploads/science%20deniers.jpg"
 ---
 
+It's time to educate those science deniers. It's not clear how they justify their positions with any real facts. Global Warming is real and there isn't any one silver bullet...but many actions from renewables to carbon tax to Geo-engineering...
+
 [Let's educate those science deniers...](https://www.theguardian.com/environment/2016/dec/15/trump-cabinet-climate-change-deniers?utm_source=NW+Indivisible+Members&utm_campaign=7203dfa2c4-EMAIL_ACTIONS_2017_03_14&utm_medium=email&utm_term=0_fe744d2a25-7203dfa2c4-8191803)
 
 * **Visit:** [The scientific method wikipedia page](https://simple.wikipedia.org/wiki/Scientific_method?utm_source=NW+Indivisible+Members&utm_campaign=7203dfa2c4-EMAIL_ACTIONS_2017_03_14&utm_medium=email&utm_term=0_fe744d2a25-7203dfa2c4-8191803)
