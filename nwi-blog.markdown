@@ -6,7 +6,7 @@ Field name:
 - 
 ---
 
-**5.3.17: **Through the efforts of many energized friends and neighbors we have been able to point out the dangers of the Trump administration.
+**5.3.17:** Through the efforts of many energized friends and neighbors we have been able to point out the dangers of the Trump administration.
 
 Whether it is the tilt toward authoritarianism or the outright lying, the Trump administration stands out as a real and present danger to our democracy.
 
