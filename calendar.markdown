@@ -7,7 +7,7 @@ embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=ny18ind
 layout: calendar
 ---
 
-### **Our Knock Every Door event was such a success we are doing it again!**
+### Our Knock Every Door event was such a success we are doin**g it again!**
 
 **What:** Target registered democrat and independent voters to raise awareness about Rob Astorino, the county executive race, and elections this fall.
 
