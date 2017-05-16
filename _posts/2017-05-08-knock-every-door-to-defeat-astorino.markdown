@@ -1,6 +1,8 @@
 ---
 title: Knock Every Door to Defeat Astorino!
 date: 2017-05-08 23:48:00 Z
+categories:
+- action
 is featured: false
 event-start-date: 2017-06-02 00:00:00 Z
 event-end-date: 2017-05-30 00:00:00 Z
