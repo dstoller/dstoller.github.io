@@ -1,7 +1,7 @@
 ---
 title: Knock Every Door to Defeat Astorino!
 date: 2017-05-08 23:48:00 Z
-is featured: true
+is featured: false
 event-start-date: 2017-06-02 00:00:00 Z
 event-end-date: 2017-05-30 00:00:00 Z
 RSVP-link: http://www.signupgenius.com/go/10c0f49ada62ba4f49-indivisible
