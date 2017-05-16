@@ -11,7 +11,7 @@ Location: Live on the inter-web :)
 
 **Indivisible Live Streaming on Facebook**- **Surviving the next 1345 days: What we can learn from the Tea Party and other movements Wednesday(May 17, 7:00 PM ET)**
 
-https://www.facebook.com/indivisibleguide/
+[https://www.facebook.com/indivisibleguide/](https://www.facebook.com/indivisibleguide/)
 
 From Indivisible:
 
