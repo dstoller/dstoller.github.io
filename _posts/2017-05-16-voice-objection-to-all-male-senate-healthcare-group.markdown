@@ -12,8 +12,12 @@ call-script-text: Not everyone is at the table that needs to be at the table to 
   Please make it right.
 ---
 
-Action:  Voice your objection to the all-male [senate healthcare group](https://www.nytimes.com/2017/05/08/us/politics/women-health-care-senate.html?_r=0).
+**Action:**  Voice your objection to the all-male senate healthcare group. 
 
-Write: Senator Mitch McConnell, 317 Russell Senate Office Building, Washington, DC 20510
+**Write:** Senator Mitch McConnell, 317 Russell Senate Office Building, Washington, DC 20510
 
-Background:  [Not everyone is at the table that needs to be at the table to discuss healthcare. ](http://khn.org/morning-breakout/amid-fierce-criticism-mcconnell-defends-all-male-panel-everybody-is-at-the-table/)
+**Background: ** 
+
+[Not everyone is at the table that needs to be at the table to discuss healthcare. ](http://khn.org/morning-breakout/amid-fierce-criticism-mcconnell-defends-all-male-panel-everybody-is-at-the-table/)
+
+[senate healthcare group](https://www.nytimes.com/2017/05/08/us/politics/women-health-care-senate.html?_r=0).
