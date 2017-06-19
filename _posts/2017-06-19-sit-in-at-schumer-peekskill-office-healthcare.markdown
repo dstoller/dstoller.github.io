@@ -5,7 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/sitin%20Schumer.png"
-event-start-date: 2017-06-22 00:00:00 Z
+event-start-date: 2017-06-22 08:00:00 Z
+event-end-date: 2017-06-19 20:00:00 Z
 Location: 1 Park Street, Peekskill, NY
 ---
 
