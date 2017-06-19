@@ -1,6 +1,7 @@
 ---
 title: Voice Objection to All-Male senate healthcare group
 date: 2017-05-16 21:33:00 Z
+published: false
 categories:
 - action
 main-image: "/uploads/male%20healthcare%20group.jpeg"
