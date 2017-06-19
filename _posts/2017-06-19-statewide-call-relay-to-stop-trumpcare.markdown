@@ -4,7 +4,7 @@ date: 2017-06-19 18:45:00 Z
 categories:
 - action
 is featured: true
-main-image: "/uploads/nyindivisble%20logo.png"
+main-image: "/uploads/affordable%20care%20act.jpg"
 event-start-date: 2017-06-21 00:00:00 Z
 ---
 
