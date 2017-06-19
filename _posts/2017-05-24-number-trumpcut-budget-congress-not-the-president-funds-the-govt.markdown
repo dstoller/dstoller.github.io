@@ -1,6 +1,7 @@
 ---
 title: "#TrumpCut Budget. Congress not the President funds the Gov't"
 date: 2017-05-24 13:26:00 Z
+published: false
 categories:
 - action
 main-image: "/uploads/trump%20budget%20cuts_sesame.jpg"
