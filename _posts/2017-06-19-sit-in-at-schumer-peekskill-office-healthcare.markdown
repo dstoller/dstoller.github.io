@@ -1,6 +1,7 @@
 ---
 title: Sit-in @ Schumer Peekskill Office - Healthcare
 date: 2017-06-19 20:20:00 Z
+published: false
 categories:
 - event
 is featured: true
