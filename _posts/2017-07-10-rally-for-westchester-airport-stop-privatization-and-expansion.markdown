@@ -5,7 +5,7 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/AirportRally.jpg"
-event-start-date: 2017-07-17 00:00:00 Z
+event-start-date: 2017-07-17 17:30:00 Z
 event-end-date: 2017-07-17 18:30:00 Z
 Location: 148 Martine Ave, White Plains, NY 10601
 RSVP-link: https://www.facebook.com/events/1722798834414454/?acontext=%7B%22ref%22%3A%224%22%2C%22feed_story_type%22%3A%22308%22%2C%22action_history%22%3A%22null%22%7D
