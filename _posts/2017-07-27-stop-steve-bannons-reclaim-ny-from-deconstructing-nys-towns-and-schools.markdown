@@ -1,6 +1,8 @@
 ---
 title: Stop Steve Bannon's Reclaim NY from Deconstructing NYS Towns and Schools
 date: 2017-07-27 16:21:00 Z
+categories:
+- action
 is featured: true
 main-image: "/uploads/steve-bannon2-620x412.jpg"
 ---
