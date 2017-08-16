@@ -1,5 +1,5 @@
 ---
-title: David Buchwald
+title: Assembly member David Buchwald
 date: 2017-08-16 17:59:00 Z
 published: false
 phone-numbers:
