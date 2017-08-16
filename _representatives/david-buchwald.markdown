@@ -1,5 +1,5 @@
 ---
-title: NYS Assembly member David Buchwald
+title: NYS Assembly Member David Buchwald
 date: 2017-08-16 17:59:00 Z
 published: false
 phone-numbers:
