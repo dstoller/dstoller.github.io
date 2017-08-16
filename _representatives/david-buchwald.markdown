@@ -3,7 +3,7 @@ title: NYS Assembly Member David Buchwald
 date: 2017-08-16 17:59:00 Z
 published: false
 phone-numbers:
-  Mount Kisco Office: 914-244-4451
+  District Office: 914-244-4451
   Albany Office: 518-455-5397
 website: http://assembly.state.ny.us/mem/David-Buchwald/
 ---
