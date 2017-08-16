@@ -1,0 +1,27 @@
+---
+title: Test Post
+date: 2017-08-16 17:43:00 Z
+categories:
+- action
+tags:
+- test
+- post
+is featured: false
+main-image: "/uploads/alpacahopping.jpg"
+call-script-text: |-
+  Hello Ms. Russo,
+  I am calling because I care about bill A1924 in the New York State Senate. I am really hoping you would support this bill because it blah blah
+Location: Westchester
+RSVP-link: nwindivisible.org/
+Field name: 
+---
+
+# This* is is **Stefanie** testing website posting, post will be deleted. The call script is a test as well.
+
+* list
+* list 2
+* list 3
+
+1. list
+2. test list
+3. test list
