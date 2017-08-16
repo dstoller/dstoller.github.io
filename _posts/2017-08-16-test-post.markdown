@@ -16,7 +16,7 @@ RSVP-link: nwindivisible.org/
 Field name: 
 ---
 
-# This* is is **Stefanie** testing website posting, post will be deleted. The call script is a test as well.
+This is is **Stefanie** testing website posting, post will be deleted. The call script is a test as well.
 
 * list
 * list 2
