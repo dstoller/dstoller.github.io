@@ -1,7 +1,7 @@
 ---
 title: NWI Supports Refugees
 date: 2017-02-04 23:20:00 Z
-position: 1
+position: 3
 main-image: "/uploads/supporting%20Refugees%202.4.17%20Pace%20University.jpg"
 ---
 
