@@ -16,7 +16,7 @@ event-end-date: 2017-08-19 12:30:00 Z
 Location: NYC
 ---
 
-Link: [](https://therisingmajority.com/)
+Link: https://therisingmajority.com
 
 "Although in power, hate is not the majority."
 
