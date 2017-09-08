@@ -1,7 +1,6 @@
 ---
 title: 'Democratic Primary: September 12th'
-date: 2017-09-08 02:12:00 Z
-published: false
+date: 2017-09-12 06:00:00 Z
 categories:
 - event
 tags:
