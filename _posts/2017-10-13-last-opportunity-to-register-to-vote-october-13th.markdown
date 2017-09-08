@@ -12,6 +12,6 @@ event-start-date: 2013-10-01 00:00:00 Z
 event-end-date: 2013-10-01 00:00:00 Z
 ---
 
-Voting lets your voice be heard! Registration for voting in the General Election must be completed by October 13th.
+Voting gives you a political voice! Registration for voting in the General Election must be completed by October 13th.
 
 Register to vote: http://citizenparticipation.westchestergov.com/register-to-vote
