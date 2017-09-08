@@ -1,8 +1,11 @@
 ---
 title: 'Democratic Primary: September 12th'
 date: 2017-09-08 02:12:00 Z
+published: false
 categories:
 - event
+event-start-date: 2017-09-12 06:00:00 Z
+event-end-date: 2017-09-12 21:00:00 Z
 ---
 
 Voting makes your voice be heard! Primaries enable citizens to choose the strongest candidate to represent the democratic party, decreasing the likelihood of Trump supporters being in office. The local democratic party is on September 12th.
