@@ -9,7 +9,7 @@ tags:
 - indivisible
 - election
 event-start-date: 2017-09-19 19:00:00 Z
-event-end-date: 2019-09-01 00:00:00 Z
+event-end-date: 2017-09-19 21:00:00 Z
 Location: Bedford Presbyterian
 ---
 
