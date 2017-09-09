@@ -3,11 +3,13 @@ title: 'Last Opportunity to Register to Vote: October 13th'
 date: 2017-10-13 00:00:00 Z
 published: false
 categories:
-- event
+- action
 tags:
 - vote
 - register
 - general election
+is featured: true
+main-image: "/uploads/vote-counts1.jpg"
 event-start-date: 2013-10-01 00:00:00 Z
 event-end-date: 2013-10-01 00:00:00 Z
 ---
