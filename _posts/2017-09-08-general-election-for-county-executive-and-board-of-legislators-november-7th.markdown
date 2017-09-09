@@ -1,13 +1,13 @@
 ---
 title: 'General Election for County Executive & Board of Legislators: November 7th'
 date: 2017-09-08 02:43:00 Z
-published: false
 categories:
 - event
 tags:
 - vote
 - general election
 - democracy
+main-image: "/uploads/latimerjenkins.JPG"
 event-start-date: 0007-11-01 00:00:00 Z
 event-end-date: 0007-11-01 00:00:00 Z
 ---
