@@ -1,7 +1,6 @@
 ---
 title: 'Door-to-Door Activism for Town Board Election: September 17th'
 date: 2017-09-17 11:00:00 Z
-published: false
 categories:
 - event
 tags:
