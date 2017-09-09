@@ -1,5 +1,5 @@
 ---
-title: 'Democratic Primary: September 12th'
+title: Vote in Democratic Primary
 date: 2017-09-12 06:00:00 Z
 categories:
 - action
