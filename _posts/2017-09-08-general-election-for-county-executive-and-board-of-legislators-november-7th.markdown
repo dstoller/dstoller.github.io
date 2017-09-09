@@ -2,7 +2,7 @@
 title: 'General Election for County Executive & Board of Legislators: November 7th'
 date: 2017-09-08 02:43:00 Z
 categories:
-- event
+- action
 tags:
 - vote
 - general election
