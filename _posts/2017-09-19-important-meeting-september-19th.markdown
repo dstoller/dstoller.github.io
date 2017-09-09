@@ -8,6 +8,7 @@ tags:
 - meeting
 - indivisible
 - election
+is featured: true
 main-image: "/uploads/christi.jpg"
 event-start-date: 2017-09-19 19:00:00 Z
 event-end-date: 2017-09-19 21:00:00 Z
