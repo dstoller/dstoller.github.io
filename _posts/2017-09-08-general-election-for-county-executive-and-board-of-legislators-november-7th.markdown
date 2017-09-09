@@ -1,5 +1,5 @@
 ---
-title: 'General Election for County Executive & Board of Legislators: November 7th'
+title: Vote in General Election for County Executive & Board of Legislators
 date: 2017-09-08 02:43:00 Z
 categories:
 - action
