@@ -1,7 +1,6 @@
 ---
 title: 'Important Meeting: September 19th'
 date: 2017-09-19 19:00:00 Z
-published: false
 categories:
 - event
 tags:
