@@ -1,12 +1,13 @@
 ---
 title: 'Democratic Primary: September 12th'
 date: 2017-09-12 06:00:00 Z
-published: false
 categories:
-- event
+- action
 tags:
 - vote
 - primary
+is featured: true
+main-image: "/uploads/demprim.png"
 event-start-date: 2017-09-12 06:00:00 Z
 event-end-date: 2017-09-12 21:00:00 Z
 ---
