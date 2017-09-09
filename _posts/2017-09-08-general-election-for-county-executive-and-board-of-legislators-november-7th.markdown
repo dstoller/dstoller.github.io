@@ -8,7 +8,7 @@ tags:
 - general election
 - democracy
 is featured: true
-main-image: "/uploads/latimerjenkins.JPG"
+main-image: "/uploads/latimerj.png"
 event-start-date: 0007-11-01 00:00:00 Z
 event-end-date: 0007-11-01 00:00:00 Z
 ---
