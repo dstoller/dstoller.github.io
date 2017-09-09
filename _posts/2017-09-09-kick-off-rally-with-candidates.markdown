@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/save%20the%20date.jpg"
 event-start-date: 2017-09-17 15:00:00 Z
-event-end-date: 2017-09-17 15:00:00 Z
+event-end-date: 2017-09-17 18:00:00 Z
 Location: 7 Saxon Wood Rd, White Plains, NY
 ---
 
