@@ -10,6 +10,7 @@ tags:
 - town board
 - election
 - getoutthevote
+main-image: "/uploads/bobo.jpg"
 event-start-date: 2017-09-17 11:00:00 Z
 event-end-date: 2017-09-17 15:00:00 Z
 ---
