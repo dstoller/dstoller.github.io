@@ -1,7 +1,6 @@
 ---
-title: 'Last Opportunity to Register to Vote: October 13th'
+title: Register to Vote!
 date: 2017-10-13 00:00:00 Z
-published: false
 categories:
 - action
 tags:
