@@ -3,7 +3,7 @@ title: Demand that Terrence Murphy Pay Attention to Women's Rights
 date: 2017-07-27 16:39:00 Z
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/RHA_NYSTATE.png"
 ---
 
