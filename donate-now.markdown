@@ -19,7 +19,7 @@ The Resistance starts at home. We are committed to helping local progressive cam
 
 We the People are trying to form a more perfect union. Want to help?
 
-![CommitVotev2.png](/api/v2/sites/58ebe3f1c50cd14e7465c41a/source/_uploads/CommitVotev2.png?download)
+![CommitVotev2.png](/uploads/CommitVotev2.png)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
