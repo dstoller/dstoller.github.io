@@ -14,7 +14,7 @@ Field name:
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-***Action Together: Northern Westchester**, **Code Blue**, **Indivisible: North Salem & Somers**, **Northern Westchester Indivisible**,* and ***Voices Rising*** are sponsoring a "Commit to Vote" event on 10.15.17 @ Bedford Historical Hall. We need to raise $3200 to make this event a reality. Please click the donate button to help us fund this important event. 
+*Action Together: Northern Westchester, Code Blue, Indivisible: North Salem & Somers, Northern Westchester Indivisible,* and *Voices Rising* are sponsoring a "Commit to Vote" event on 10.15.17 @ Bedford Historical Hall. We need to raise $3200 to make this event a reality. Please click the donate button to help us fund this important event. 
 
 The “Commit to Vote” event provides an opportunity to engage with neighbors around important issues that impact the November 7th County and Town elections. Attendees will also have the opportunity to sign up for get-out-the-vote shifts with local progressive candidates.
 
