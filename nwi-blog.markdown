@@ -1,22 +1,15 @@
 ---
 title: We The People
 date: 2017-04-27 20:31:00 Z
-published: false
 position: 4
 Field name:
 - 
 ---
 
-**5.3.17:** Through the efforts of many energized friends and neighbors we have been able to point out the dangers of the Trump administration.
-
-Whether it is the tilt toward authoritarianism or the outright lying, the Trump administration stands out as a real and present danger to our democracy.
-
-The actions that are called for include but are not limited to communal marching and outspoken rejection of the Trump programs.
-
-We need to know about the Russian connection and why it is taking so long for Congress to do its work.
-
-![resistance party.jpg](/uploads/resistance%20party.jpg)
-
-**4.27.17:**  Today, we introduce our Northern Westchester Indivisible (NWI) blog, called -  "We the People." NWI started with an email to 20 people. Our first meeting was in the living room of one of our members, during a snowstorm. 75 people showed up. We are now 270 members strong.[Join our resistance](http://nwindivisible.org/become-a-member.html).
-
-![We The People.png](/uploads/We%20The%20People.png)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
