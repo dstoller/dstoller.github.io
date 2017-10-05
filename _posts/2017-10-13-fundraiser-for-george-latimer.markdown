@@ -6,6 +6,8 @@ categories:
 tags:
 - fundraiser
 - latimer
+is featured: true
+main-image: "/uploads/savethedate.jpg"
 ---
 
 Save the date - there will be a fundraiser for George Latimer on October 13th.
