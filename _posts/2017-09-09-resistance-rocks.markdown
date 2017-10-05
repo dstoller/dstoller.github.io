@@ -1,6 +1,7 @@
 ---
 title: Resistance Rocks
 date: 2017-09-09 16:58:00 Z
+published: false
 categories:
 - event
 tags:
