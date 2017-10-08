@@ -1,6 +1,7 @@
 ---
 title: NWI Candidates Forum
 date: 2017-10-05 02:14:00 Z
+published: false
 is featured: true
 main-image: "/uploads/candforum-664553.jpg"
 ---
