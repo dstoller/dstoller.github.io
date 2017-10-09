@@ -1,9 +1,6 @@
 ---
 title: NWI Candidates Forum
 date: 2017-10-08 14:45:00 Z
-tags:
-- candidates
-- meeting
 is featured: true
 main-image: "/uploads/candforum-f3acae.jpg"
 ---
