@@ -6,8 +6,8 @@ categories:
 is featured: true
 ---
 
-Share your views at a series of public forums...See image for dates & topics
-Can;t make it? Email your comments to:
+Share your views at a series of public forums...Click "Act Now" button for dates & topics...
+Can't make it? Email your comments to:
 LatimerTransition2017@gmail.com
 
 ![latimer transition forums.png](/uploads/latimer%20transition%20forums.png)
