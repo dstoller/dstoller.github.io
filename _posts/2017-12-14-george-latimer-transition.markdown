@@ -1,6 +1,7 @@
 ---
 title: George Latimer Transition
 date: 2017-12-14 19:11:00 Z
+published: false
 categories:
 - action
 is featured: true
