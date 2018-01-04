@@ -2,7 +2,7 @@
 title: Standing in solidarity with Charlottesville
 date: 2017-08-16 14:25:00 Z
 position: 0
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_3459.JPG"
 ---
 
