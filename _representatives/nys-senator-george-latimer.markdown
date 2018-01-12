@@ -1,5 +1,5 @@
 ---
-title: NYS Senator George Latimer
+title: County Executive George Latimer
 date: 2017-08-16 18:04:00 Z
 published: false
 phone-numbers:
