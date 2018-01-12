@@ -8,6 +8,7 @@ tags:
 - rally
 - event
 is featured: true
+main-image: "/uploads/women.jpg"
 event-start-date: 2018-01-20 11:00:00 Z
 event-end-date: 2018-01-20 15:00:00 Z
 Location: " 72nd & Central Park West"
