@@ -16,3 +16,5 @@ call-script-text: I'm calling to demand that Governor Cuomo call for a special e
 ---
 
 To oppose Trumpish policies, it is necessary to have a majority in the NY State Senate. Given that George Latimer was elected County Executive, his seat in the NY State Senate now needs to be filled with a progressive democrat. Please pressure Cuomo to call for a special election and then help get Shelley Mayer elected!
+
+Call Cuomo: 518-474-8390, press #2 for live person.
