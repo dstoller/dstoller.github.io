@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 is featured: true
-main-image: "/uploads/.resist.jpg"
+main-image: "/uploads/r.jpg"
 event-start-date: 2018-02-13 19:00:00 Z
 event-end-date: 2018-02-13 21:00:00 Z
 Location: Bedford Presbyterian Church
