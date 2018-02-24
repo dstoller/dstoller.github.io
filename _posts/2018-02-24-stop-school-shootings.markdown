@@ -19,3 +19,5 @@ https://www.nytimes.com/2018/02/15/opinion/the-nra-can-be-beat.html?action=click
 "But the gun lobby’s stranglehold on our elected officials does not need to continue, if candidates stand up to the lobby and voters demand that they commit themselves to the sorts of changes that a vast majority of Americans want.
 
 With midterm elections coming up this fall, America has a chance to get that message across. Candidates must realize that reducing gun violence is a winning and moral issue. Aggressive turnout by voters who believe this can defeat the N.R.A. at the polls. Until then, the bloodshed will continue."
+
+To learn how to be an advocate for this issue: https://www.indivisible.org/resource/preventing-gun-violence-tell-members-congress-prayers-not-enough/
