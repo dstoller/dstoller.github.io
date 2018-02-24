@@ -1,6 +1,7 @@
 ---
 title: Bedford 2020 Climate Action Summit!
 date: 2018-02-01 22:14:00 Z
+published: false
 categories:
 - event
 tags:
