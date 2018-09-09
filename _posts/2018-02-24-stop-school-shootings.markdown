@@ -1,6 +1,7 @@
 ---
 title: STOP School Shootings
 date: 2018-02-24 17:49:00 Z
+published: false
 categories:
 - action
 tags:
