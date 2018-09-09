@@ -1,6 +1,7 @@
 ---
 title: NYC March For Our Lives
 date: 2018-03-24 10:00:00 Z
+published: false
 categories:
 - event
 tags:
