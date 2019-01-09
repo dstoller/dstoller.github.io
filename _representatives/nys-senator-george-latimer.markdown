@@ -1,7 +1,6 @@
 ---
 title: County Executive George Latimer
 date: 2017-08-16 18:04:00 Z
-published: false
 phone-numbers:
   District Office: 914-934-5250
   Albany Office: 518-455-2031
