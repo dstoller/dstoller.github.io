@@ -1,5 +1,5 @@
 ---
-title: NYS Senator Peter Harckham
+title: NYS Senator Peter Harckham (40th)
 date: 2017-08-16 18:22:00 Z
 phone-numbers:
   Email: harckham@nysenate.gov
