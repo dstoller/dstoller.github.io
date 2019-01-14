@@ -1,7 +1,6 @@
 ---
 title: Keep NY18Blue
 date: 2018-09-09 16:38:00 Z
-published: false
 categories:
 - action
 tags:
