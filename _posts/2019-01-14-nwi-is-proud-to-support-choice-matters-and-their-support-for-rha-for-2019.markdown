@@ -1,6 +1,7 @@
 ---
 title: NWI is proud to support Choice Matters and their support for RHA for 2019
 date: 2019-01-14 18:00:00 Z
+is featured: true
 main-image: "/uploads/choicematters.png"
 ---
 
