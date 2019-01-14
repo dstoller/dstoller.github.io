@@ -3,7 +3,7 @@ title: Westchester Student Coalition Against Gun Violence Forum (Klein v. Biaggi
 date: 2018-09-10 18:22:00 Z
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/kleinbiaggi.jpg"
 ---
 
