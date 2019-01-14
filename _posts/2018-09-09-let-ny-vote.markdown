@@ -1,5 +1,5 @@
 ---
-title: Let NY Vote
+title: NWI supports Let NY Vote and their efforts to make history in NYS
 date: 2018-09-09 15:02:00 Z
 categories:
 - action
