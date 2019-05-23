@@ -1,6 +1,8 @@
 ---
 title: NWI supports Drivers License & Privacy Act --> undocumented immigrants
 date: 2019-05-23 15:49:00 Z
+categories:
+- action
 is featured: true
 main-image: "/uploads/static1.squarespace.jpg"
 ---
