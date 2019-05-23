@@ -1,0 +1,8 @@
+---
+title: State Reps Forum
+date: 2019-05-23 15:22:00 Z
+is featured: true
+main-image: "/uploads/hYaC2lkES5WbEPptz0vHKg.jpg"
+---
+
+We held a successful forum with three of our elected state officials on 4/16/19 - David Buchwald (A93), Pete Harckham (S40) and Shelley Mayer (S37). We learned about their agendas and shared ours. We look forward to continuing the dialogue and partnership. 
