@@ -1,6 +1,8 @@
 ---
 title: NWI supports the CCPA & NYRenews.org
 date: 2019-05-23 15:34:00 Z
+categories:
+- action
 is featured: true
 main-image: "/uploads/NYRenews-logo-green%20(1).png"
 ---
