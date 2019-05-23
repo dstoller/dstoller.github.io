@@ -1,7 +1,7 @@
 ---
 title: NWI meets with Maloney
 date: 2017-04-11 22:57:00 Z
-position: 6
+position: 9
 main-image: "/uploads/Maloney_Bedford%20Historical%20Hall%204.3.17.jpg"
 ---
 

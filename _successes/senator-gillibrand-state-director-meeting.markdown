@@ -1,7 +1,7 @@
 ---
 title: Senator Gillibrand State Director Meeting
 date: 2017-03-03 23:12:00 Z
-position: 5
+position: 8
 main-image: "/uploads/gillibrand%20office.jpg"
 ---
 
