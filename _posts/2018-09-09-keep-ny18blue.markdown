@@ -1,8 +1,6 @@
 ---
 title: Keep NY18Blue
 date: 2018-09-09 16:38:00 Z
-categories:
-- action
 tags:
 - election
 - seanpatrickmaloney
